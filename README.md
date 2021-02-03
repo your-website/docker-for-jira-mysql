@@ -31,6 +31,7 @@
 **Note:**
 
 To generate a license key follow the link and click on the Generate License button
+
 [Generate a license key](https://my.atlassian.com/license/evaluation?utm_nooverride=1&utm_nooverride=1&ref=prod&product=jira-software.data-center&version=8.15.0&build=815001&sid=BLR7-K013-6S3E-Z468&licensefieldname=setupLicenseKey&callback=http%3A%2F%2Flocalhost%3A8080%2Fsecure%2FSetupLicense%21default.jspa)
 
 ##### To shutdown the container enter the following command:
